@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1pVqOFEY8p2pe4TuLNSA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="1pVqOFEY8p2pe4TuLNSA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeColor=#9933FF;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="710" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1pVqOFEY8p2pe4TuLNSA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pVqOFEY8p2pe4TuLNSA-6" target="1pVqOFEY8p2pe4TuLNSA-8">
@@ -22,7 +22,7 @@
         <mxCell id="1pVqOFEY8p2pe4TuLNSA-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;匹配求解&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start;&quot;&gt;Hungarian/KM/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GNN&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="210" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1pVqOFEY8p2pe4TuLNSA-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="1pVqOFEY8p2pe4TuLNSA-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeColor=#663300;" vertex="1" parent="1">
           <mxGeometry x="91" y="301" width="710" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1pVqOFEY8p2pe4TuLNSA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pVqOFEY8p2pe4TuLNSA-23" target="1pVqOFEY8p2pe4TuLNSA-25">
