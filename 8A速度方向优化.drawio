@@ -1,9 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="GwSs94yXK75XdDc4Mue1">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="220" as="sourcePoint" />
+            <mxPoint x="260" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-2" value="主车" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3CzzCrFNANQ04r1T6n0a-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="160" as="sourcePoint" />
+            <mxPoint x="510" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-4" value="主车方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-5" value="主车入侵方向（与主车行进方向正交）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="140" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="366" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="385" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="402" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="417" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="346" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="325" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="307" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="287" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CzzCrFNANQ04r1T6n0a-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="417" as="sourcePoint" />
+            <mxPoint x="404" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="364" y="397" />
+              <mxPoint x="374" y="397" />
+              <mxPoint x="364" y="387" />
+              <mxPoint x="344" y="347" />
+              <mxPoint x="364" y="327" />
+              <mxPoint x="374" y="307" />
+              <mxPoint x="384" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-21" value="障碍物运动方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="254" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="361" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="371" y="310" as="sourcePoint" />
+            <mxPoint x="371" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="297" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388.5" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-27" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontStyle=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-28" value="障碍车在远离主车时，在主车入侵方向的投影呈远离趋势" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="208" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-30" value="此时IA计算的速度方向与障碍车实际速度方向相反" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="300" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.486;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3CzzCrFNANQ04r1T6n0a-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="250" as="sourcePoint" />
+            <mxPoint x="700" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CzzCrFNANQ04r1T6n0a-32" value="障碍物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
